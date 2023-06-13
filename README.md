@@ -8,7 +8,7 @@ Le programme est rédigé en C++ sur Qt Creator 4.11.0 sous Ubuntu 20.04.5 LTS.
 
 ## Installation
 
-Il est fortement conseillé de suivre ce tuto [tuto](https://unix.stackexchange.com/questions/14354/read-write-to-a-serial-port-without-root) pour obtenir les droits de lecture/écriture sans root. 
+Il est fortement conseillé de suivre ce tuto [tuto](https://unix.stackexchange.com/questions/14354/read-write-to-a-serial-port-without-root) pour obtenir les droits de lecture/écriture sans root. (Linux) 
 
 
 
